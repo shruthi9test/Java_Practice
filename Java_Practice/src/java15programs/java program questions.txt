@@ -1,0 +1,15 @@
+1. How to Reverse a String without built in funtion ?
+2. How to Reverse a String with built in funtion ?
+3. How do you convert string to integer and integer to string in java?
+4. Write a java program to prove that strings are immutable in java?
+5. How do you swap two string variables without using third or temp variable in java?
+6. Write a java program to reverse each word of a given string?
+7. Write a java program to check whether two strings are anagram or not?
+8. Write a java program to find duplicate characters in a string?
+9. Write a java program to remove all white spaces from a string?
+10.Write a java program to count the number of occurrences of each character in a string?
+11. Write a java program to count the total number of occurrences of a given character in a string without using any loop?
+12. Write a java program to count the number of words in a string?
+13. Write a java program to find the duplicate words and their number of occurrences in a string?
+14. How to remove numbers from a give String ?
+15. How to remove characters in a String ?
